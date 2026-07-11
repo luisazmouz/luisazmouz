@@ -8,7 +8,7 @@ Right now I'm building **[Detour](https://joindetour.com/)** — a social collec
 
 <p align="center">
   <img src="moto.png"   width="24%" />
-  <img src="quad.jpg"  width="24%" />
+  <img src="quad.png"  width="24%" />
   <img src="detour.png"      width="24%" />
   <img src="rtfoam.png"      width="24%" />
 </p> 
