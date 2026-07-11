@@ -7,8 +7,8 @@ I build complete systems — airframe to firmware to production software — and
 Right now I'm building **[Detour](https://joindetour.com/)** — a social collection for your favorite spots.
 
 <p align="center">
-  <img src="aircraft.jpg"   width="24%" />
-  <img src="quad-frame.jpg"  width="24%" />
+  <img src="moto.png"   width="24%" />
+  <img src="quad.jpg"  width="24%" />
   <img src="detour.png"      width="24%" />
   <img src="rtfoam.png"      width="24%" />
 </p> 
