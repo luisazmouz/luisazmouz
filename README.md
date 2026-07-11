@@ -1,50 +1,49 @@
-## Hi there 👋
+# Hi, I'm Luis 👋
 
-Hi, I’m Luis
+**Founder · iOS Engineer · Multidisciplinary Builder**
 
-Founder, iOS Engineer, and Multidisciplinary Builder
+I build complete systems — airframe to firmware to production software — and root-cause what breaks. My work spans mobile development, UAVs, geospatial technology, fabrication, and product design.
 
-I build software and physical systems, with a focus on mobile development, UAVs, geospatial technology, product design, and engineering.
+Right now I'm building **[Detour](https://joindetour.com/)** — a social collection for your favorite spots.
 
-I am currently building [Detour](https://joindetour.com), a social collection for your favorite spots.
+<p align="center">
+  <img src="aircraft.jpg"   width="24%" />
+  <img src="quad-frame.jpg"  width="24%" />
+  <img src="detour.png"      width="24%" />
+  <img src="rtfoam.png"      width="24%" />
+</p> 
 
-Current Focus
+## 🛰️ What I'm building
 
-I develop Detour primarily with:
+**Detour** is an offline-first geospatial iOS app. On the engineering side, I built a geospatial engine that processes **50,000 photo-metadata records in under 60 seconds (~830 records/sec) on mobile hardware** — GPS/EXIF extraction, GeoJSON point-in-polygon matching, and global country/territory detection, all within tight CPU, memory, and battery budgets.
 
-* Swift and SwiftUI
-* Supabase and PostgreSQL
-* MapKit and Core Location
-* GeoJSON and coordinate processing
-* Photo metadata and location detection
-* Offline caching and mobile performance
-* Scalable data architecture
+Built with:
+`Swift` · `SwiftUI` · `Supabase / PostgreSQL` · `MapKit` · `Core Location` · `GeoJSON`
 
-Much of my work involves processing large photo libraries, matching coordinates to geographic boundaries, designing map-based interfaces, building image-loading systems, and managing complex application state.
+Most of the hard problems are the same shape: large photo libraries, coordinates matched to geographic boundaries, map-based interfaces, image-loading pipelines, and complex application state.
 
-Beyond Software
+## 🔧 Beyond software
 
-My work also extends into aviation, mechanical systems, fabrication, and prototyping.
+I design and build physical systems too, and test them in the real world:
 
-I have experience with:
+- **RC aircraft & flight systems** — 20+ fixed-wing and multirotor builds designed, built, and flown
+- **Embedded electronics** — Arduino / AVR, C/C++, sensors, real-time control
+- **Fabrication** — CAD, CNC machining (including a CNC-milled quadcopter frame), 3D printing, PCB assembly
+- **Mechanical restoration** — full electrical/mechanical rebuilds of vintage motorcycles
 
-* RC aircraft and flight systems
-* Arduino and embedded electronics
-* Motorcycles and mechanical restoration
-* CAD and 3D printing
-* CNC fabrication
-* Electrical troubleshooting
-* Physical product development
+I like understanding a system end to end, building a functional prototype, testing it under real conditions, and improving it through iteration.
 
-I enjoy understanding complete systems, building functional prototypes, testing them in real-world conditions, and improving them through iteration.
+## 📌 A few things here
 
-Technologies
+- **[World_geolocations-GeoJSON](https://github.com/luisazmouz/World_geolocations-GeoJSON)** — GeoJSON boundaries for every country and territory; the reference layer behind Detour's detection engine.
+- **[RTFoam](https://github.com/luisazmouz/RTFoam)** — an AI-assisted design tool for foam RC aircraft.
+- **[Arduino-to-RC-Receiver](https://github.com/luisazmouz/Arduino-to-RC-Receiver)** — reading RC receiver channels on an Arduino, the input layer for embedded flight control.
 
-Swift SwiftUI Supabase PostgreSQL
-MapKit Core Location GeoJSON REST APIs
-JavaScript HTML CSS Arduino C++
-CAD 3D Printing CNC
+## 🧰 Technologies
 
+`Swift` `SwiftUI` `Supabase` `PostgreSQL` `MapKit` `Core Location` `GeoJSON` `REST APIs`
+`JavaScript` `HTML` `CSS` `Arduino` `C++` `CAD` `3D Printing` `CNC`
 
+---
 
-- 🤔 I’m looking for help with **branding, growth strategy, iOS architecture, and building scalable location-based systems.**
+📍 [luisazmouz.com](https://luisazmouz.com) · [LinkedIn](https://linkedin.com/in/luisazmouz)
