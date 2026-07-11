@@ -6,7 +6,7 @@ Founder, iOS Engineer, and Multidisciplinary Builder
 
 I build software and physical systems, with a focus on mobile development, UAVs, geospatial technology, product design, and engineering.
 
-I am currently building Detour, a social collection for your favorite spots.
+I am currently building [Detour](https://joindetour.com), a social collection for your favorite spots.
 
 Current Focus
 
