@@ -10,7 +10,7 @@ Right now I'm building **[Detour](https://joindetour.com/)** — a social collec
   <img src="moto.jpg"   width="24%" />
   <img src="quad.jpg"  width="24%" />
   <img src="detour.png"      width="24%" />
-  <img src="rtfoam.png"      width="24%" />
+  <img src="rtfoam.jpg"      width="24%" />
 </p> 
 
 ## 🛰️ What I'm building
