@@ -2,7 +2,8 @@
 
 **Founder · iOS Engineer · Multidisciplinary Builder**
 
-I build complete systems — airframe to firmware to production software — and root-cause what breaks. My work spans mobile development, UAVs, geospatial technology, fabrication, and product design.
+I build complete systems: airframe to firmware to production software and root-cause what breaks. 
+My work spans mobile development, UAVs, geospatial technology, fabrication, and product design.
 
 Right now I'm building **[Detour](https://joindetour.com/)** — a social collection for your favorite spots.
 
